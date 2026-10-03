@@ -1,68 +1,51 @@
 <div align="center">
 
-# 👋 Hey, I'm Under_Dev
+# Under_Dev
 
-### French developer • Building ambitious software & game experiences
+### Building software, worlds & tools.
 
-I build applications, tools and experimental projects around  
-**software development, gaming and AI-assisted development.**
+French developer building ambitious projects across  
+**software • gaming • web • mobile • AI-assisted development**
 
-Currently building **DYGDRASIL** 🌳
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Under404-181717?style=for-the-badge&logo=github)](https://github.com/Under404)
 
 </div>
 
 ---
 
-## 🌳 DYGDRASIL
+## 👋 About me
 
-**DYGDRASIL** is my main project.
+I'm a French developer who enjoys turning ambitious ideas into real products.
 
-A next-generation Minecraft ecosystem built around a living multi-world universe,
-custom gameplay and a complete platform surrounding the game.
+I work across different areas of development — from backend infrastructure
+and desktop applications to game systems, web platforms and developer tools.
 
-The project is being designed as much more than a Minecraft server.
+Right now, most of my work revolves around one project:
 
-### The ecosystem
+# 🌳 DYGDRASIL
 
-🎮 Custom Minecraft experience  
-🌍 Multiple interconnected worlds  
-🌳 Living world-tree progression  
-📖 VOLUSPA in-game atlas  
-🚀 Dedicated launcher  
-🛠️ Creator Studio  
-🧩 Community Workshop  
-📱 DYGDRASIL Explorer  
-🌐 Web platform  
-⚙️ DYGDRASIL Core API  
-🤖 Multi-agent development tooling  
+> **A universe. A platform. An ecosystem.**
 
-> The goal is to build a universe that can evolve with both its developers
-> and its community.
+DYGDRASIL started as an idea for a Minecraft universe.
 
----
+Today, I'm rebuilding that idea as a complete ecosystem connecting
+the game, its players, creators and developers.
 
-## 🧠 DYGDRASIL Control
+The project is being designed around a living universe composed of
+interconnected worlds, with progression, exploration and community-driven
+content at its core.
 
-I'm also developing **DYGDRASIL Control**, an experimental development
-orchestrator for the project.
-
-The objective is to coordinate multiple AI coding agents while keeping
-development reproducible, isolated and under human control.
+### The vision
 
 ```text
-Specification
-     │
-     ▼
-Implementer
-     │
-     ▼
-Automated Tests
-     │
-     ▼
-Adversarial Review
-     │
-     ▼
-Independent Validation
-     │
-     ▼
-Human Approval
+                         🌳 DYGDRASIL
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+       PLAYERS             CREATORS           DEVELOPERS
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                        DYGDRASIL CORE
